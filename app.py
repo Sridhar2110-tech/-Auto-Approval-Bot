@@ -7,7 +7,7 @@ def hello_world():
 
 
 if __name__ == "__main__":
-    app.run()
+    app.run(host="0.0.0.0", port=port)
 
 # Don't Remove Credit @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
